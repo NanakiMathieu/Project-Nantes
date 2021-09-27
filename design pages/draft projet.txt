@@ -14,10 +14,11 @@ couleur : industriel
 
 fonctionnalités :
 - pages lieux : zones 
-	hangar à banane /machine de l'iles
-	chateau des ducs
-	centre historique(passage pommeraye/cathédrale saint-pierre et saint-paul/ graslin...) / commerce / feydeau
-	jardins (jardin extraordinaire / parc japonais(ile de versaille / jardin des plantes ...)
+	hangar à banane
+	machine de l'iles (Mathieu)
+	chateau des ducs (Maxime)
+	centre historique(passage pommeraye/cathédrale saint-pierre et saint-paul/ graslin...) / commerce / feydeau centre ville (Kévin)
+	jardins (jardin extraordinaire / parc japonais(ile de versaille / jardin des plantes ...) (Camille)s
 - page d'accueil
 - a propos
 - menu burger (pour la navigation entre pages)
