@@ -1,0 +1,30 @@
+groupe 1: Camille / Mathieu / Kevin D/ Maxime
+
+
+--> Choix idée : blog sur la ville (en anglais, si temps version française)
+	- Nantes
+	menu (menu burger sur la gauche avec petite barre) 
+	needs : informations (histoire) / evenement / tourisme
+	information : règles sanitaires / transports 
+	actions : liens utiles ( si redirection : posez questions aux propriétaires des sites ?)
+
+	en plus : pourquoi le site ? / sources
+
+couleur : industriel 
+
+fonctionnalités :
+- pages lieux : zones 
+	hangar à banane /machine de l'iles
+	chateau des ducs
+	centre historique(passage pommeraye/cathédrale saint-pierre et saint-paul/ graslin...) / commerce / feydeau
+	jardins (jardin extraordinaire / parc japonais(ile de versaille / jardin des plantes ...)
+- page d'accueil
+- a propos
+- menu burger (pour la navigation entre pages)
+- images (seule et en défilement)
+- responsive
+
+- traduction
+- page d'évenement
+
+
