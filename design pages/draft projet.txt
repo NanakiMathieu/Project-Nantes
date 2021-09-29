@@ -14,11 +14,10 @@ couleur : industriel
 
 fonctionnalités :
 - pages lieux : zones 
-	hangar à banane
-	machine de l'iles (Mathieu)
-	chateau des ducs (Maxime)
-	centre historique(passage pommeraye/cathédrale saint-pierre et saint-paul/ graslin...) / commerce / feydeau centre ville (Kévin)
-	jardins (jardin extraordinaire / parc japonais(ile de versaille / jardin des plantes ...) (Camille)s
+	hangar à banane /machine de l'iles --> Mathieu
+	chateau des ducs --> Maxime
+	centre historique(passage pommeraye/cathédrale saint-pierre et saint-paul/basilique Saint-Nicolas/Theatre Graslin...) / commerce / feydeau --> Kevin D
+	jardins (jardin extraordinaire / parc japonais(ile de versaille) / jardin des plantes ...) --> Camille
 - page d'accueil
 - a propos
 - menu burger (pour la navigation entre pages)
@@ -28,4 +27,23 @@ fonctionnalités :
 - traduction
 - page d'évenement
 
+police d'écriture : Montserrat
+couleur :
+barre nav /ecriture footer : gris #c7c7c7
+fond: blanc cassé #f7f7f7
+footer / menu burger / texte: noir #3e3e3e
 
+marges:
+ - inter-images : 20px
+ - image /footer : 25px;
+ - image texte : 20px;
+ - titre/ sous-titre : 30px;
+ - sous-titre/ texte : 20px;
+ - en-tête/ titre : 20px
+ - navbar : menu ecart 20px;
+
+largeur navbar : 
+open -> 165px 
+close -> 70px
+
+hauteur footer : 100px
