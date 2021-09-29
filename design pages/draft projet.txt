@@ -16,7 +16,9 @@ fonctionnalités :
 - pages lieux : zones 
 	hangar à banane /machine de l'iles --> Mathieu
 	chateau des ducs --> Maxime
+	
 	centre historique(passage pommeraye/cathédrale saint-pierre et saint-paul/basilique Saint-Nicolas/Theatre Graslin...) / commerce / feydeau --> Kevin D
+	
 	jardins (jardin extraordinaire / parc japonais(ile de versaille) / jardin des plantes ...) --> Camille
 - page d'accueil
 - a propos
