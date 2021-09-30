@@ -1,6 +1,7 @@
 /* Burger */
 #burger {
-	outline: #0000ff medium 5px;
+	position: fixed;
+	top: 0;
 }
 #burger path {
 	transition: transform 0.4s, opacity 0.4s;
@@ -21,13 +22,25 @@
 	transform: rotate(-44deg) translate(0px, -4%);
 }
 
+aside {
+	position: fixed;
+	height: 100%;
+}
+
 /* Sidebar transition*/
 aside .navbar {
 	transition: width 0.2s;
+	position: relative;
+	margin-top: 55px;
+	/* top: 55px; */
 }
 aside .navbar ul li {
 	transform: scaleX(0);
 	transform-origin: left center;
+}
+aside .navbar ul {
+	position: fixed;
+	max-width: 170px;
 }
 aside .navbar.open ul li {
 	transform: scaleX(1);

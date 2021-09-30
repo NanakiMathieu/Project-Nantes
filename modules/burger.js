@@ -14,4 +14,11 @@ function burgerKeyEnter() {
 function burgerToggle() {
 	document.querySelector("#burger").classList.toggle("close")
 	document.querySelector(".navbar").classList.toggle("open")
+
+	if (document.querySelector("#burger").classList.contains("close")) {
+		document.querySelector("main").style.marginLeft = "165px"
+	}
+	else {
+		document.querySelector("main").style.marginLeft = "70px"
+	}
 }
