@@ -23,3 +23,11 @@ window.addEventListener("resize", () => {
 		burgerSidebar()
 	}
 })
+window.onload = () => {
+	if (
+		window.innerWidth < 800 &&
+		document.querySelector("#burger").classList.contains("close")
+	) {
+		burgerSidebar()
+	}
+}
