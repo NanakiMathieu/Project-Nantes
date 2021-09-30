@@ -1,0 +1,34 @@
+/* Burger */
+#burger {
+	outline: #0000ff medium 5px;
+}
+#burger path {
+	transition: transform 0.4s, opacity 0.4s;
+	transform-origin: center center;
+}
+#burger .burgerMiddle2 {
+	opacity: 0;
+}
+#burger.close .burgerTop,
+#burger.close .burgerBottom {
+	opacity: 0;
+}
+#burger.close .burgerMiddle1 {
+	transform: rotate(44deg) translate(0px, -4%);
+}
+#burger.close .burgerMiddle2 {
+	opacity: 1;
+	transform: rotate(-44deg) translate(0px, -4%);
+}
+
+/* Sidebar transition*/
+aside .navbar {
+	transition: width 0.2s;
+}
+aside .navbar ul li {
+	transform: scaleX(0);
+	transform-origin: left center;
+}
+aside .navbar.open ul li {
+	transform: scaleX(1);
+}
